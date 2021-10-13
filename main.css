@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+
+.navbar_background{
+  background-color: #FFDEBF;
+}
+
+.fitzLogo{
+  width: 100px;
+  height: auto;
+}
+
+.infoSectionBackground{
+  background-color: #FFDEBF;
+}
+
+.paragraph{
+ font-family: 'Acme', sans-serif;
+ text-align: center;
+ background-color: #FFDEBF;
+}
+
+.hours{
+  background-color: #FFFAF5;
+  font-family: 'Acme', sans-serif;
+  font-size: 25px;
+}
+
+.bottling{
+  background-color: #FFFAF5;
+  font-family: 'Acme', sans-serif;
+  font-size: 25px;
+}
+
+.schedule{
+  background-color: #FFDEBF;
+}
+
+.h1{
+  text-align: center;
+  background-color: #FFDEBF;
+  font-family: 'Acme', sans-serif;
+}
+
+.buttonRow{
+  background-color: #FFDEBF;
+}
+
+.button{
+  background-color: #F25757;
+  border: none;
+  color: #FFFAF5;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  size: 10px;
+}
+
+.button2:hover{
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.foodMenu{
+  background-color: #FFDEBF;
+}
+
+.menuimage{
+  max-width: 100%;
+  height: auto;
+  margin: 2%;
+}
+
+.shopMenu{
+  background-color: #FFDEBF;
+}
+
+hr.new4 {
+  border-top: 5px solid;
+  color: #F25757;
+}
+
+.aboutpage{
+  background-color: #D7D9D3;
+}
+
+.h1contact{
+  text-align: center;
+  background-color: #F25757;
+  font-family: 'Acme', sans-serif;
+}
+
+@media (min-width: 991px) {
+  .paragraph {
+    font-size: 1.6rem;
+  }
+}
